@@ -1,0 +1,9 @@
+{
+  "name": "node",
+  "private": true,
+  "dependencies": {
+    "sandbox": "0.8.6",
+		"ddp": "0.12.0",
+    "request": "2.72.0"
+  }
+}
